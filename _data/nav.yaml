@@ -1,0 +1,72 @@
+- title: 程式設計 #Programming #Menu item title.
+  url: category/programming.html #Menu item url.
+  icon: assets/img/icons/programming.svg #Menu item icon.
+  hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
+  subnav: #Subnav. See note [2].
+      - title: C #Submenu item title.
+        url: category/c.html #Submenu item url.
+        hue: "var(--c-themeHueBlue)" #Submenu item hue.
+        subnav:
+            - title: C++
+              url: category/cpp.html
+              hue: "var(--c-themeHueBlue)"
+              subnav:
+                  - title: Java
+                    url: category/java.html
+                    hue: "var(--c-themeHueBlue)"
+                    subnav:
+                        - title: Python
+                          url: category/python.html
+                          hue: "var(--c-themeHueBlue)"
+                          subnav:
+                             - title: 語法比較
+                               url: category/compare.html
+                               hue: "var(--c-themeHueBlue)"
+- title: 機器人
+  url: category/ros.html
+  icon: assets/img/icons/robotic.svg
+  hue: "var(--c-themeHueBrown)"
+- title: 數據分析
+  url: category/dataanalysis.html
+  icon: assets/img/icons/dataanalysis.svg
+  hue: "var(--c-themeHueRed)"
+  subnav:
+      - title: Juila
+        url: category/juila.html
+        hue: "var(--c-themeHueBlue)"
+        subnav:
+            - title: R
+              url: category/r.html
+              hue: "var(--c-themeHueBlue)"
+              subnav:
+                  - title: SQL
+                    url: category/sql.html
+                    hue: "var(--c-themeHueBlue)"
+- title: 硬體
+  url: category/hardware.html
+  icon: assets/img/icons/hardware.svg
+  hue: "var(--c-themeHueGreen)"
+- title: 系統
+  url: category/system.html
+  icon: assets/img/icons/system.svg
+  hue: "var(--c-themeHueGreen)"
+  subnav:
+     - title: Windows
+       url: category/windows.html
+       hue: "var(--c-themeHueOrange)"
+       subnav:
+          - title: Linux
+            url: category/linux.html
+            hue: "var(--c-themeHueOrange)"
+- title: 軟體
+  url: category/software.html
+  icon: assets/img/icons/software.svg
+  hue: "var(--c-themeHueGreen)"
+  subnav:
+     - title: Git
+       url: category/git.html
+       hue: "var(--c-themeHueOrange)"
+- title: 雜記
+  url: category/notes.html
+  icon: assets/img/icons/notes.svg
+  hue: "var(--c-themeHuePurple)"
