@@ -1,6 +1,6 @@
 # Development Notes
 
-本庫用來發表部落格，可點選後方連結進入[首頁 (https://ericwang1013.github.io/tech_blog)](https://ericwang1013.github.io/tech_blog)。
+本庫用來發表部落格，可點選後方連結進入[首頁 (https://ericwang1013.github.io)](https://ericwang1013.github.io)。
 
 本頁面使用 [Jekyll](http://jekyllrb.com) 技術支援，和使用 [Simplex](https://github.com/andreondra/jekyll-theme-simplex) 主題。
 
