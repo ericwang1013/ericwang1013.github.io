@@ -4,8 +4,6 @@ category: [ros] #One, more categories or no at all.
 title:  "什麼是「ROS」？"
 date:   2022-01-02
 author: Eric #Author's nick.
-nextPart: _posts/2021-12-26-welcome-to-my-blog.md #Next part.
-prevPart: _posts/2022-01-01-hello-new-year.md #Previous part.
 ---
 
 # 前言 #
