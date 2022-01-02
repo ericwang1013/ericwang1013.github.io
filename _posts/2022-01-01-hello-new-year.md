@@ -4,8 +4,6 @@ category: [programming, compare] #One, more categories or no at all.
 title:  "Hello World 2022."
 date:   2022-01-01
 author: Eric #Author's nick.
-prevPart: _posts/2021-12-31-welcome-new-year.md #Previous part.
-nextPart: _posts/2022-01-02-what-is-ros.md #Next part.
 ---
 
 # 前言 #
