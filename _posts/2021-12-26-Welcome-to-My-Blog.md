@@ -4,6 +4,8 @@ category: [notes] #One, more categories or no at all.
 title:  "Welcome to My Blog!"
 date:   2021-12-26
 author: Eric #Author's nick.
+prevPart: _posts/2022-01-02-what-is-ros.md #Previous part.
+nextPart: _posts/2021-12-31-welcome-new-year.md #Next part.
 ---
 
 我的工程師 Blog 終於弄好，特此紀錄。
