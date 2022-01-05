@@ -1,7 +1,7 @@
 ---
 layout: post #Do not change.
 category: [programming, python] #One, more categories or no at all.
-title:  "Python學習筆記-000"
+title:  "Python 學習筆記-000"
 date:   2022-01-03
 author: Eric #Author's nick.
 ---
@@ -19,7 +19,7 @@ author: Eric #Author's nick.
 # 筆記 #
 [Python 官方網站](https://www.python.org/ "Title")  
 Python 特色：
-_「簡單易學，語法簡潔，**直譯式**的電腦語言。」_
+**「簡單易學，語法簡潔，直譯式的電腦語言。」**
 
 **高階程式語言，支援物件導向設計，並且能跨越各作業系統。**  
 **動態型別**：在程式碼要執行時，才會進行檢查。  
@@ -29,17 +29,17 @@ _「簡單易學，語法簡潔，**直譯式**的電腦語言。」_
 **可使用第三方函式庫**  
 
 # 編寫 #
-**編碼**：支援 _BIG-5_(繁體中文)和 _UTF-8_(相容於所有程式語言的編碼)。  
+**編碼**：支援 **BIG-5(繁體中文)**和**UTF-8(相容於所有程式語言的編碼)**。  
 語法如下：(寫在程式碼最前面)  
-	
-	# -*- coding: encoding -*- #
-
+```	
+# -*- coding: encoding -*- #
+```
 encoding:編碼名稱，如UTF-8。  
 
-**易讀性**：適當縮排，並加上重要 _註解_。  
+**易讀性**：適當縮排，並加上重要**註解**。  
 
 程式碼構成：  
-大部份由 _模組(Module)_ 所組成。模組則由 _敘述(Statement, 陳述式)_ 所構成；敘述則包含了 _運算式_ 、 _關鍵字(Keyword)_ 、和 _識別字(Identifier)_ 等。  
+大部份由**模組(Module)**所組成。模組則由**敘述(Statement, 陳述式)**所構成；敘述則包含了**運算式** 、**關鍵字(Keyword)**、和**識別字(Identifier)**等。  
 
 語法說明：  
 用print()輸出結果時，可以使用「+」運算子串接前面的變數和後面的字串。而想要輸出的字串可以使用「'」單引號或者「"」雙引號來括助其內容。  
@@ -49,7 +49,7 @@ encoding:編碼名稱，如UTF-8。
 多行：以3個雙引號(單引號也可以)開始，填入註解內容，再以3個雙引號(單引號)作結束。  
 
 **縮排**  
-Python使用 _縮排_ 作為表達程式碼區塊(Code Block, 在Python也可稱為Suite)。在其他程式語言則是以 _左、右大括號_ 來構成。  
+Python使用**縮排**作為表達程式碼區塊(Code Block, 在Python也可稱為Suite)。在其他程式語言則是以**左、右大括號**來構成。  
 
 如何判斷程式碼要縮排？  
 若該行程式碼最後以「：」結束，則下一行必為縮排。  
@@ -66,17 +66,17 @@ Python使用 _縮排_ 作為表達程式碼區塊(Code Block, 在Python也可稱
 **輸入**  
 `input()`函式用來取得輸入內容。  
 語法說明：  
-	
-	input([prompt])
-
+```
+input([prompt])
+```
 prompt:提示字串，要用單引號(雙引號)來括住字串。  
 
 **輸出**  
 `print()`函式用來將內容輸出到螢幕。  
 語法說明：  
-	
-	print(value, ..., sep = '', end='\n', file = sys.stdout, flush = False)
-	
+```
+print(value, ..., sep = '', end='\n', file = sys.stdout, flush = False)
+```
 value:欲輸出的資料，若是字串，還必須在前後加上單引號(雙引號)。  
 sep:以半形空白來隔開要輸出的值。  
 end='\n':為預設值。「'\n'」是換行符號，表示輸出之後，插入點會移向下一行。若要輸出不換行，可以空白字元「end=''」來取代換行符號。
