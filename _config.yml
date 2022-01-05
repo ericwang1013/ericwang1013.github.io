@@ -50,8 +50,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#logo_img: /assets/img/icons/simplex.svg #Absolute path to the logo. If not specified, the title will be displayed instead.
-#favicon: /assets/favicon.ico
+#logo_img: /assets/img/icons/ewlogo.svg #Absolute path to the logo. If not specified, the title will be displayed instead.
+favicon: /assets/favicon.ico
 #global_tags: jekyll theme simplex golasblog responsive html5
 copyright: Copyright © 2021 Eric Wang, All rights reserved. All icons by Flaticon.com. #Your copyright.
 
