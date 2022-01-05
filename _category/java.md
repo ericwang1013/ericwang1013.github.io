@@ -1,5 +1,5 @@
 ---
 category: [java] #Category ID.
 hue: var(--c-themeHueBlue) #Category hue. See note [1].
-title: JAVA #Category title.
+title: Java #Category title.
 ---
