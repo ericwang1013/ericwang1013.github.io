@@ -1,7 +1,7 @@
 ---
 layout: post #Do not change.
 category: [programming, python] #One, more categories or no at all.
-title:  "Python 學習筆記-000"
+title:  "Python 複習筆記-000"
 date:   2022-01-03
 author: Eric #Author's nick.
 ---
