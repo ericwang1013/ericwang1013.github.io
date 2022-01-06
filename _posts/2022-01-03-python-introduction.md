@@ -7,7 +7,7 @@ author: Eric #Author's nick.
 ---
 
 # 前言 #
-因為是個人的學習筆記，所以會以 _重點整理_ 的方式做紀錄。  
+因為是個人的學習筆記，所以會以**重點整理**的方式做紀錄。  
 而資料來源則是碩士班擔任助教期間，教授上課時所使用的教材[從零開始學習Python程式設計](https://www.books.com.tw/products/0010738945 "Title")
 
 <a href="/assets/img/posts/pythonlogo.jpg" data-lity class="sx-center">
