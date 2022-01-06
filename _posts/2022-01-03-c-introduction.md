@@ -1,7 +1,7 @@
 ---
 layout: post #Do not change.
 category: [programming, c] #One, more categories or no at all.
-title:  "C 學習筆記-000"
+title:  "C 複習筆記-000"
 date:   2022-01-03
 author: Eric #Author's nick.
 ---
