@@ -1,7 +1,7 @@
 ---
 layout: post #Do not change.
 category: [programming, java] #One, more categories or no at all.
-title:  "Java 學習筆記-000"
+title:  "Java 複習筆記-000"
 date:   2022-01-05
 author: Eric #Author's nick.
 ---
