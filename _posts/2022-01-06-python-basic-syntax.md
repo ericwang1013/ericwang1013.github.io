@@ -11,7 +11,7 @@ author: Eric #Author's nick.
 </a>
 
 # 前言 #
-基本語法。   
+Python 的基本語法。   
 學習資料：[從零開始學習Python程式設計](https://www.books.com.tw/products/0010738945 "Title")
 
 # 變數 #
