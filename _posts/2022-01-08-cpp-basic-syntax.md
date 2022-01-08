@@ -10,8 +10,8 @@ author: Eric #Author's nick.
   <img src="/assets/img/posts/cpplogo_thumb.jpg"/>
 
 # 前言 #
-基本語法。  
-學習資料：[C++語言教學手冊](https://www.books.com.tw/products/0010478314 "Title")
+C++ 的基本語法。  
+學習資料：[C++教學手冊](https://www.books.com.tw/products/0010478314 "Title")
 
 # 程式碼解析 #
 C++的註解是以「**//**」記號開始，至該行結束來表示註解的文字。而「//」所影響到的範圍，僅僅是在它之後的同一行敘述。  
