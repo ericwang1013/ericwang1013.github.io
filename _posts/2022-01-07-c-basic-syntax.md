@@ -11,8 +11,8 @@ author: Eric #Author's nick.
 </a>
 
 # 前言 #
-基本語法。  
-學習資料：[C語言教學手冊](https://www.books.com.tw/products/0010360466 "Title")
+C 的基本語法。  
+學習資料：[C 語言教學手冊](https://www.books.com.tw/products/0010360466 "Title")
 
 # 程式碼解析 #
 `printf()`函數的功用是印出括號內所包含的文字。  
