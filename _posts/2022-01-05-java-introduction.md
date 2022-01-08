@@ -8,7 +8,7 @@ author: Eric #Author's nick.
 
 # 前言 #
 跟 C 一樣是複習之前所學的。  
-學習資料：[Java語言教學手冊](https://www.books.com.tw/products/0010555220 "Title")
+學習資料：[Java教學手冊](https://www.books.com.tw/products/0010555220 "Title")
 
 <a href="/assets/img/posts/javalogo.jpg" data-lity class="sx-center">
   <img src="/assets/img/posts/javalogo_thumb.jpg"/>
