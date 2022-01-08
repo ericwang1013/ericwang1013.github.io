@@ -8,7 +8,7 @@ author: Eric #Author's nick.
 
 # 前言 #
 除了複習 C 以外，在前公司上班時，經主管和同事提攜指點，其實也應該要把 **C++**學習。  
-學習資料：[C++語言教學手冊](https://www.books.com.tw/products/0010478314 "Title")
+學習資料：[C++教學手冊](https://www.books.com.tw/products/0010478314 "Title")
 
 <a href="/assets/img/posts/cpplogo.jpg" data-lity class="sx-center">
   <img src="/assets/img/posts/cpplogo_thumb.jpg"/>
