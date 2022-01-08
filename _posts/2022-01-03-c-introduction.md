@@ -9,7 +9,7 @@ author: Eric #Author's nick.
 # 前言 #
 在最近的面試中，發現了**C**才是最主要的工作語言。  
 因此應該是要先把以前所學的重新複習一遍才對。  
-學習資料：[C語言教學手冊](https://www.books.com.tw/products/0010360466 "Title")
+學習資料：[C 語言教學手冊](https://www.books.com.tw/products/0010360466 "Title")
 
 <a href="/assets/img/posts/clogo.jpg" data-lity class="sx-center">
   <img src="/assets/img/posts/clogo_thumb.jpg"/>
