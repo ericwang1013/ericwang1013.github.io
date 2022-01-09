@@ -83,12 +83,12 @@ Java裡最基本的元件：**識別字**及**關鍵字**。
 識別字名稱不能使用到Java的關鍵字，同時，識別字的第一個字元，必須是英文字母或是底線，數字只能在第二個字元之後出現；而空白字元及特殊符號，則不能出現在識別字的名稱裡。此外，Java對於識別字是有大小寫之別。  
 Java有識別字的命名習慣原則  
 
-| 識別字 | 命名原則 |
-| :-: | :-: |
-| 常數 | 常數是指設值之後，便無法修改其值的變數。全部字元皆由英文大寫字母及底線組成 |
-| 變數 | 英文小寫字母開始，若由數個英文單字組成，則後面的英文字由大寫起頭，其餘小寫 |
-| 函數 | 英文小寫字母開始，若由數個英文單字組成，則後面的英文字由大寫起頭，其餘小寫。函數和變數的命名方式相同，不同的是函數名稱後面會加上() |
-| 類別 | 英文大寫字母開始，若由數個英文單字組成，則後面的英文字由大寫起頭，其餘小寫 |
+| 識別字 |                                                           命名原則                                                            |
+|:----:|:-------------------------------------------------------------------------------------------------------------------------:|
+|  常數  |                           常數是指設值之後，便無法修改其值的變數。全部字元皆由英文大寫字母及底線組成                            |
+|  變數  |                            英文小寫字母開始，若由數個英文單字組成，則後面的英文字由大寫起頭，其餘小寫                            |
+|  函數  | 英文小寫字母開始，若由數個英文單字組成，則後面的英文字由大寫起頭，其餘小寫。函數和變數的命名方式相同，不同的是函數名稱後面會加上() |
+|  類別  |                            英文大寫字母開始，若由數個英文單字組成，則後面的英文字由大寫起頭，其餘小寫                            |
 
 最後，Java沒有限定識別字的長度。  
 
@@ -98,16 +98,16 @@ Java有識別字的命名習慣原則
 
 Java常用關鍵字  
 
-| abstract | boolean | break | byte | case |
-| :-: | :-: | :-: | :-: | :-: |
-| **catch** | **char** | **class** | **const** | **false** |
-| **continue** | **default** | **do** | **double** | **else** |
-| **extends** | **final** | **finally** | **float** | **for** |
-| **goto** | **if** | **import** | **implements** | **int** |
-| **instanceof** | **interface** | **long** | **native** | **new** |
-| **null** | **package** | **private** | **protected** | **public** |
-| **return** | **short** | **static** | **synchronized** | **super** |
-| **this** | **throw** | **throws** | **transient** | **true** |
-| **try** | **void** | **volatile** | **while** | **strictfp** |
-| **switch** |  |  |  |  |
+|    abstract    |    boolean    |    break     |       byte       |     case     |
+|:--------------:|:-------------:|:------------:|:----------------:|:------------:|
+|   **catch**    |   **char**    |  **class**   |    **const**     |  **false**   |
+|  **continue**  |  **default**  |    **do**    |    **double**    |   **else**   |
+|  **extends**   |   **final**   | **finally**  |    **float**     |   **for**    |
+|    **goto**    |    **if**     |  **import**  |  **implements**  |   **int**    |
+| **instanceof** | **interface** |   **long**   |    **native**    |   **new**    |
+|    **null**    |  **package**  | **private**  |  **protected**   |  **public**  |
+|   **return**   |   **short**   |  **static**  | **synchronized** |  **super**   |
+|    **this**    |   **throw**   |  **throws**  |  **transient**   |   **true**   |
+|    **try**     |   **void**    | **volatile** |    **while**     | **strictfp** |
+|   **switch**   |               |              |                  |              |
 
