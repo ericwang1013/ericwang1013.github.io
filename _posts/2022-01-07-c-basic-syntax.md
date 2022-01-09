@@ -92,14 +92,14 @@ C語言必須在`main()`函數開始時就宣告變數，因為這樣子才方�
 
 C語言常用關鍵字  
 
-| auto | break | case | char | const |
-| :-: | :-: | :-: | :-: | :-: |
-| **continue** | **default** | **defined** | **do** | **double** |
-| **else** | **enum** | **extern** | **float** | **for** |
-| **goto** | **if** | **int** | **long** | **register** |
-| **return** | **short** | **signed** | **sizeof** | **static** |
-| **struct** | **switch** | **typedef** | **union** | **unsigned** |
-| **void** | **while** | **volatile** | | |
+|     auto     |    break    |     case     |    char    |    const     |
+|:------------:|:-----------:|:------------:|:----------:|:------------:|
+| **continue** | **default** | **defined**  |   **do**   |  **double**  |
+|   **else**   |  **enum**   |  **extern**  | **float**  |   **for**    |
+|   **goto**   |   **if**    |   **int**    |  **long**  | **register** |
+|  **return**  |  **short**  |  **signed**  | **sizeof** |  **static**  |
+|  **struct**  | **switch**  | **typedef**  | **union**  | **unsigned** |
+|   **void**   |  **while**  | **volatile** |            |              |
 
 ### 除錯 ###
 發現程式的錯誤並加以改正的過程稱為**除錯(debug)**。  
